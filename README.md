@@ -1,2 +1,2 @@
-# Structures Team
-## Team Lead: James Hallstrom
+# Guidance, Navigation, Control (GNC) Team
+## Team Lead: Travers Sorenson
